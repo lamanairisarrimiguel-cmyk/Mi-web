@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patricia Peluquería - Murchante</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header / Inicio -->
+    <header id="inicio">
+        <div class="container">
+            <h1>Patricia Peluquería</h1>
+            <h2>Tu Estilo en Murchante</h2>
+            <p>Bienvenidos a Patricia Peluquería, tu salón de confianza. Realzamos tu belleza natural con servicios profesionales.</p>
+            <div class="cta-buttons">
+                <a href="tel:663677887" class="btn">Llamar ahora</a>
+                <a href="#contacto" class="btn-outline">Cómo llegar</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Servicios -->
+    <section id="servicios">
+        <div class="container">
+            <h2>Nuestros Servicios</h2>
+            <p>Transforma tu look con nuestros servicios profesionales, combinando técnicas innovadoras y productos de primera calidad.</p>
+            
+            <div class="service-grid">
+                <div class="service">
+                    <h3>Cortes Personalizados</h3>
+                    <p>Diseños únicos que reflejan tu personalidad y estilo de vida, con asesoramiento sobre forma y volumen.</p>
+                </div>
+                <div class="service">
+                    <h3>Coloración Profesional</h3>
+                    <p>Desde mechas sutiles hasta cambios audaces, usando productos de alta calidad para un acabado vibrante y duradero.</p>
+                </div>
+                <div class="service">
+                    <h3>Tratamientos Capilares</h3>
+                    <p>Revitaliza tu cabello con brillo, hidratación y fuerza. Incluye keratina, botox y más.</p>
+                </div>
+                <div class="service">
+                    <h3>Peinados Especiales</h3>
+                    <p>Para bodas, eventos o cualquier ocasión. Recogidos, trenzas y ondas perfectas.</p>
+                </div>
+                <div class="service">
+                    <h3>Alisados y Permanentes</h3>
+                    <p>Transforma tu textura: liso perfecto o rizos definidos con métodos seguros.</p>
+                </div>
+                <div class="service">
+                    <h3>Cuidado y Asesoramiento</h3>
+                    <p>Consejos expertos y recomendación de productos para mantener tu cabello en casa.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Por qué elegirnos -->
+    <section id="porque-elegirnos">
+        <div class="container">
+            <h2>Por Qué Elegirnos</h2>
+            <p>Cada visita es personalizada, con productos de primera línea y técnicas actualizadas para resaltar tu identidad y estilo.</p>
+        </div>
+    </section>
+
+    <!-- Contacto -->
+    <section id="contacto">
+        <div class="container">
+            <h2>Contacto y Ubicación</h2>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <p><strong>Dirección:</strong> 31521 Murchante, Navarra</p>
+                    <p><strong>Teléfono:</strong> <a href="tel:663677887">663 67 78 87</a></p>
+                    <p><strong>Horario:</strong><br>
+                       Lunes a Viernes: 9:00 - 19:00<br>
+                       Sábado: 9:00 - 14:00<br>
+                       Domingo: Cerrado
+                    </p>
+                </div>
+                <div class="map">
+                    <iframe src="https://www.google.com/maps?q=Murchante,+Navarra&output=embed" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>Patricia Peluquería • 31521 Murchante, Navarra • Tu salón de confianza desde hace años</p>
+        </div>
+    </footer>
+
+</body>
+</html>
